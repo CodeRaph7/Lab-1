@@ -249,4 +249,4 @@ Why Context?
 useState → Memory  
 useEffect → Side effects after render  
 Context → Global shared state  
-Re-render → React redraws UI#
+Re-render → React redraws UI#"# Hydration" 
